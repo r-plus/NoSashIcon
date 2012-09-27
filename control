@@ -1,0 +1,10 @@
+Package: jp.r-plus.nosashicon
+Name: NoSashIcon
+Depends: mobilesubstrate, firmware (>= 6.0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: No sash for newly app icon
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
+dev: rplus
